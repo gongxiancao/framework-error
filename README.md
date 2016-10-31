@@ -1,2 +1,2 @@
-# framework-error
-error handling module for framework
+# ofa-error
+error handling module for ofa
